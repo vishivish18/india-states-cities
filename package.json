@@ -1,0 +1,89 @@
+{
+  "name": "india-states-cities",
+  "version": "0.1.0",
+  "description": "All 36 Indian states and union territories with their cities, for state → city pickers. Typed, tiny API, zero dependencies, optional React hook.",
+  "keywords": [
+    "india",
+    "states",
+    "cities",
+    "union territories",
+    "dropdown",
+    "picker",
+    "address",
+    "react"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    },
+    "./react": {
+      "import": {
+        "types": "./dist/react.d.ts",
+        "default": "./dist/react.js"
+      },
+      "require": {
+        "types": "./dist/react.d.cts",
+        "default": "./dist/react.cjs"
+      }
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "DATA_LICENSE.md"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "data": "node scripts/build-data.mjs",
+    "prepublishOnly": "npm run typecheck && npm test && npm run build",
+    "demo": "vite --config demo/vite.config.ts",
+    "demo:build": "vite build --config demo/vite.config.ts"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.0.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jsdom": "^25.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tsup": "^8.3.5",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.5"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "homepage": "https://vishivish18.github.io/india-states-cities/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishivish18/india-states-cities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishivish18/india-states-cities/issues"
+  }
+}
