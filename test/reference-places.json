@@ -1,0 +1,6533 @@
+[
+ {
+  "state": "AN",
+  "name": "Sri Vijaya Puram",
+  "sources": [
+   "capital"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Adoni",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Amalapuram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Amaravati",
+  "sources": [
+   "100k+",
+   "capital"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Anakapalli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Anantapur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Ananthapuramu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Bapatla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Bhimavaram",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Chittoor",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Dharmavaram",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Eluru",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Gudivada",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Guntakal",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Guntur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Hindupur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Kadapa",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Kakinada",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Kavali",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Kurnool",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Machilipatnam",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Madanapalle",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Markapuram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Nandyal",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Narasaraopet",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Nellore",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Ongole",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Paderu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Parvathipuram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Proddatur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Puttaparthi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Rajamahendravaram",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Rampachodavaram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Srikakulam",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Tadepalligudem",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Tadipatri",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Tenali",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Tirupati",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Vijayanagaram",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Vijayawada",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Visakhapatnam",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AP",
+  "name": "Vizianagaram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Aalo",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Anini",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Basar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Boleng",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Bomdila",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Changlang",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Daporijo",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Hawai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Itanagar",
+  "sources": [
+   "capital"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Khonsa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Koloriang",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Lemmi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Likabali",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Longding",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Namsai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Napangphung",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Palin",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Pasighat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Raga",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Roing",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Seppa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Tato",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Tawang",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Tezu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Yachuli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Yingkiong",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Yupia",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AR",
+  "name": "Ziro",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Amingaon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Barpeta",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Biswanath Chariali",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Bongaigaon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Dhemaji",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Dhubri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Dibrugarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Diphu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Dispur",
+  "sources": [
+   "capital"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Garamur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Goalpara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Golaghat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Guwahati",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Haflong",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Hailakandi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Hamren",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Hatsingimari",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Jorhat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Kajalgaon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Karimganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Kokrajhar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Mangaldoi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Marigaon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Mushalpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Nagaon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Nalbari",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "North Lakhimpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Pathsala",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Sankardev Nagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Sibsagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Silchar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Sonari",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Tamulpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Tezpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Tinsukia",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "AS",
+  "name": "Udalguri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Araria",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Arrah",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Arwal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Aurangabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Bagaha",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Banka",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Begusarai",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Bettiah",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Bhabua",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Bhagalpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Bihar Sharif",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Buxar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Chapra",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Chhapra",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Danapur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Darbhanga",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Dehri",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Gaya",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Gopalganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Hajipur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Jamalpur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Jamui",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Jehanabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Katihar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Khagaria",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Kishanganj",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Lakhisarai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Madhepura",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Madhubani",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Motihari",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Munger",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Muzaffarpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Nawada",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Patna",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Purnia",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Saharsa",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Samastipur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Sasaram",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Sheikhpura",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Sheohar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Sitamarhi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Siwan",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "BR",
+  "name": "Supaul",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Ambikapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Baikunthpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Balod",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Baloda Bazar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Balrampur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Bemetara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Bhilai",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Bijapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Bilaspur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Dantewada",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Dhamtari",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Durg",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Gariaband",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Gaurela",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Jagdalpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Janjgir",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Jashpur Nagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Kanker",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Kawardha",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Khairagarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Kondagaon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Korba",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Mahasamund",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Manendragarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Mohla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Mungeli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Narayanpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Raigarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Raipur",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Rajnandgaon",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Sakti",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Sarangarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Sukma",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CG",
+  "name": "Surajpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "CH",
+  "name": "Chandigarh",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "DH",
+  "name": "Daman",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "DH",
+  "name": "Diu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "DH",
+  "name": "Silvassa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Bhalswa Jahangir Pur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Delhi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Deoli",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Hastsal",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Karawal Nagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Kirari Suleman Nagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Nangloi Jat",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "New Delhi",
+  "sources": [
+   "100k+",
+   "capital"
+  ]
+ },
+ {
+  "state": "DL",
+  "name": "Sultan Pur Majra",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "GA",
+  "name": "Margao",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GA",
+  "name": "Panaji",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GA",
+  "name": "Quepem",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Ahmedabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Ahwa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Amreli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Anand",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Bharuch",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Bhavnagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Bhuj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Botad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Chhota Udaipur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Dahod",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Gandhidham",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Gandhinagar",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Godhra",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Himatnagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Jamnagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Junagadh",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Khambhalia",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Lunavada",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Mahesana",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Mehsana",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Modasa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Morbi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Morvi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Nadiad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Navsari",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Palanpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Patan",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Porbandar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Rajkot",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Rajpipla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Surat",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Surendranagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Surendranagar Dudhrej",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Tharad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Vadodara",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Valsad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Vapi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Veraval",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "GJ",
+  "name": "Vyara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Bilaspur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Chamba",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Dharamshala",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Hamirpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Keylong",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Kullu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Mandi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Nahan",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Reckong Peo",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Shimla",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Solan",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HP",
+  "name": "Una",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Ambala",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Bahadurgarh",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Bhiwani",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Charkhi Dadri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Faridabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Fatehabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Gurgaon",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Gurugram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Hansi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Hisar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Jhajjar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Jind",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Kaithal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Karnal",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Kurukshetra",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Narnaul",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Nuh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Palwal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Panchkula",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Panipat",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Rewari",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Rohtak",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Sirsa",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Sonipat",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Thanesar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "HR",
+  "name": "Yamunanagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Adityapur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Bokaro",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Chaibasa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Chatra",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Daltonganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Deoghar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Dhanbad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Dumka",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Garhwa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Giridih",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Godda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Gumla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Hazaribag",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Jamshedpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Jamtara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Khunti",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Koderma",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Latehar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Lohardaga",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Mango",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Pakur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Ramgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Ranchi",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Sahebganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Seraikela",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JH",
+  "name": "Simdega",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Anantnag",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Bandipore",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Baramulla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Budgam",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Doda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Ganderbal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Jammu",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Kathua",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Kishtwar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Kulgam",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Kupwara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Poonch",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Pulwama",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Rajouri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Ramban",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Reasi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Samba",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Shopian",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Srinagar",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "JK",
+  "name": "Udhampur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Bagalkote",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Ballari",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Bangalore",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Belgaum",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Bellary",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Bengaluru",
+  "sources": [
+   "100k+",
+   "capital"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Bengaluru South",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Bidar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Bijapur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Chamarajanagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Chikkaballapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Chikmagalur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Chitradurga",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Davanagere",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Davangere",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Dharwad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Gadag-Betageri",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Hassan",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Haveri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Hospet",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Hospete",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Hubli–Dharwad",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Kalaburagi",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Karwar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Kolar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Koppal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Madikeri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Mandya",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Mangalore",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Mysore",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Raichur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Shimoga",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Shivamogga",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Tumakuru",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Tumkur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Udupi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KA",
+  "name": "Yadgir",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Alappuzha",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kakkanad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kalpetta",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kannur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kasaragod",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kochi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kollam",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kottayam",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Kozhikode",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Malappuram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Painavu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Palakkad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Pathanamthitta",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Thiruvananthapuram",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "KL",
+  "name": "Thrissur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Diskit",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Drass",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Kargil",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Khalatse",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Leh",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Nyoma",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Padum",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LA",
+  "name": "Sankoo",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "LD",
+  "name": "Kavaratti",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Achalpur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Ahilyanagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Ahmednagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Akola",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Alibag",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Ambarnath",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Amravati",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Aurangabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Badlapur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Bandra",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Barshi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Beed",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Bhandara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Bhiwandi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Bhusawal",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Buldhana",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Chandrapur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Chhatrapati Sambhajinagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Dhule",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Gadchiroli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Gondia",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Hinganghat",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Hingoli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Ichalkaranji",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Jalgaon",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Jalna",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Kalyan-Dombivli",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Kolhapur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Latur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Malegaon",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Mira-Bhayandar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Mumbai",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Nagpur",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Nanded",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Nanded Waghala",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Nandurbar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Nashik",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Navi Mumbai",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Oros",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Osmanabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Palghar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Panvel",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Parbhani",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Pimpri-Chinchwad",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Pune",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Ratnagiri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Sangli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Sangli-Miraj & Kupwad",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Satara",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Solapur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Thane",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Udgir",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Ulhasnagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Vasai-Virar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Wardha",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Washim",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MH",
+  "name": "Yavatmal",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Ampati",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Baghmara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Jowai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Khliehriat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Mairang",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Mawkyrwat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Nongpoh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Nongstoin",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Resubelpara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Shillong",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Tura",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "ML",
+  "name": "Williamnagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Bishnupur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Chandel",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Churachandpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Imphal",
+  "sources": [
+   "100k+",
+   "capital"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Jiribam",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Kakching",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Kamjong",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Kangpokpi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Lamphelpat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Noney",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Pherzawl",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Porompat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Senapati",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Tamenglong",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Tengnoupal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Thoubal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MN",
+  "name": "Ukhrul",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Agar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Alirajpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Anuppur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Ashoknagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Balaghat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Barwani",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Betul",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Bhind",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Bhopal",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Burhanpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Chhatarpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Chhindwara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Damoh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Datia",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Dewas",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Dhar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Dindori",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Guna",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Gwalior",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Harda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Hoshangabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Indore",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Jabalpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Jhabua",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Katni",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Khandwa",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Khargone",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Maihar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Mandla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Mandsaur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Mauganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Morena",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Murwara",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Narsinghpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Neemuch",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Niwari",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Pandhurna",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Panna",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Raisen",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Rajgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Ratlam",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Rewa",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Sagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Satna",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Sehore",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Seoni",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Shahdol",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Shajapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Sheopur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Shivpuri",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Sidhi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Singrauli",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Tikamgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Ujjain",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Umaria",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Vidisha",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MP",
+  "name": "Waidhan",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Aizawl",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Champhai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Hnahthial",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Khawzawl",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Kolasib",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Lawngtlai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Lunglei",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Mamit",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Saiha",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Saitual",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "MZ",
+  "name": "Serchhip",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Chümoukedima",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Dimapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Kiphire",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Kohima",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Longleng",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Mokokchung",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Mon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Niuland",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Noklak",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Peren",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Phek",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Shamator",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Tseminyü",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Tuensang",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Wokha",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "NL",
+  "name": "Zunheboto",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Angul",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Balangir",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Balasore",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Bargarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Baripada",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Berhampur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Bhadrak",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Bhawanipatna",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Bhubaneswar",
+  "sources": [
+   "100k+",
+   "capital"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Boudh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Chhatrapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Cuttack",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Debagarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Dhenkanal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Jagatsinghpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Jajpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Jharsuguda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Kendrapara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Kendujhar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Khordha",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Koraput",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Malkangiri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Nabarangpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Nayagarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Nuapada",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Paralakhemundi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Phulbani",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Puri",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Raurkela Industrial Township",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Rayagada",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Rourkela",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Sambalpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Subarnapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "OD",
+  "name": "Sundergarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Amritsar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Barnala",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Batala",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Bathinda",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Faridkot",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Fatehgarh Sahib",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Fazilka",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Firozpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Gurdaspur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Hoshiarpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Jalandhar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Kapurthala",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Ludhiana",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Malerkotla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Mansa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Moga",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Nawanshahr",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Pathankot",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Patiala",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Rupnagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Sahibzada Ajit Singh Nagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Sangrur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Sri Muktsar Sahib",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PB",
+  "name": "Tarn Taran Sahib",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PY",
+  "name": "Karaikal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PY",
+  "name": "Mahé",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PY",
+  "name": "Ozhukarai",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "PY",
+  "name": "Pondicherry",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "PY",
+  "name": "Puducherry",
+  "sources": [
+   "100k+",
+   "capital"
+  ]
+ },
+ {
+  "state": "PY",
+  "name": "Yanam",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Ajmer",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Alwar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Balotra",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Banswara",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Baran",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Barmer",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Beawar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Bharatpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Bhilwara",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Bikaner",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Bundi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Chittorgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Churu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Dausa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Deeg",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Dholpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Didwana",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Dungarpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Hanumangarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Jaipur",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Jaisalmer",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Jalore",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Jhalawar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Jhunjhunu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Jodhpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Karauli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Khairthal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Kishangarh",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Kota",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Kotputli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Nagaur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Pali",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Phalodi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Pratapgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Rajsamand",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Salumbar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Sawai Madhopur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Sikar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Sirohi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Sri Ganganagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Tonk",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "RJ",
+  "name": "Udaipur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "SK",
+  "name": "Gangtok",
+  "sources": [
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "SK",
+  "name": "Gyalshing",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "SK",
+  "name": "Mangan",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "SK",
+  "name": "Namchi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "SK",
+  "name": "Pakyong",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "SK",
+  "name": "Soreng",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Alandur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Ambattur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Ariyalur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Avadi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Chengalpattu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Chennai",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Coimbatore",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Cuddalore",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Dharmapuri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Dindigul",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Erode",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Kallakurichi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Kancheepuram",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Kanchipuram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Karaikudi",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Karur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Krishnagiri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Madurai",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Mayiladuthurai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Nagapattinam",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Nagercoil",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Namakkal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Ooty",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Pallavaram",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Perambalur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Pudukkottai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Ramanathapuram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Ranipet",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Salem",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Sivaganga",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tambaram",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tenkasi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Thanjavur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Theni",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Thiruvarur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Thoothukudi",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tiruchirappalli",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tirunelveli",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tirupattur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tiruppur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tiruvallur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tiruvannaamalai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Tiruvottiyur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Vellore",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Viluppuram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TN",
+  "name": "Virudhunagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Agartala",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Ambassa",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Belonia",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Bishramganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Dharmanagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Kailashahar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Khowai",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TR",
+  "name": "Udaipur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Adilabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Asifabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Bhongir",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Bhupalpally",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Gadwal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Hanamkonda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Hyderabad",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Jagtial",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Jangaon",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Kamareddy",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Karimnagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Khammam",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Kothagudem",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Mahabubabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Mahbubnagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Mancherial",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Medak",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Miryalaguda",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Mulugu",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Nagarkurnool",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Nalgonda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Narayanpet",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Nirmal",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Nizamabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Peddapalli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Ramagundam",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Sangareddy",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Secunderabad",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Shamirpet",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Siddipet",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Sircilla",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Suryapet",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Vikarabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Wanaparthy",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "TS",
+  "name": "Warangal",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Almora",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Bageshwar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Champawat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Dehradun",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Gairsain",
+  "sources": [
+   "capital"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Gopeshwar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Haldwani-Kathgodam",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Haridwar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Nainital",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "New Tehri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Pauri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Pithoragarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Rudraprayag",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Rudrapur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UK",
+  "name": "Uttarkashi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Agra",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Akbarpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Aligarh",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Amroha",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Auraiya",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Ayodhya",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Azamgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Baghpat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Bahraich",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Ballia",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Balrampur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Banda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Barabanki",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Bareilly",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Basti",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Bijnor",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Budaun",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Bulandshahr",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Chandauli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Deoria",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Etah",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Etawah",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Faizabad",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Farrukhabad",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Fatehgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Fatehpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Firozabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Gauriganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Ghaziabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Ghazipur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Gonda",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Gorakhpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Greater Noida",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Gyanpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Hamirpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Hapur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Hardoi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Hathras",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Jaunpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Jhansi",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Kannauj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Kanpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Karwi",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Kasganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Khalilabad",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Khora",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Lakhimpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Lalitpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Loni",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Lucknow",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Maharajganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Mahoba",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Mainpuri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Manjhanpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Mathura",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Mau",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Maunath Bhanjan",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Meerut",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Mirzapur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Moradabad",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Muzaffarnagar",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Naugarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Noida",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Orai",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Padrauna",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Pilibhit",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Pratapgarh",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Prayagraj",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Raebareli",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Rampur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Robertsganj",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Saharanpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Sambhal",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Shahjahanpur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Shamli",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Shravasti",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Sitapur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Sultanpur",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Unnao",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "UP",
+  "name": "Varanasi",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Alipore",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Alipurduar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Asansol",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Baharampur",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Bally",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Balurghat",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Bankura",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Baranagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Barasat",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Bardhaman",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Bhatpara",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Bidhan Nagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Chandannagar",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Chinsurah",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Cooch Behar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Darjeeling",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Durgapur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "English Bazar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Gopalpur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Haldia",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Howrah",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Hugli-Chuchura",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Jalpaiguri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Jhargram",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Kalimpong",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Kamarhati",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Kharagpur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Kolkata",
+  "sources": [
+   "100k+",
+   "capital",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Krishnanagar",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Kulti",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Madhyamgram",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Maheshtala",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Malda",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Medinipur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Midnapore",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Naihati",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "North Dumdum",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Panihati",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Purulia",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Raiganj",
+  "sources": [
+   "100k+",
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Rajpur Sonarpur",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Serampore",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Siliguri",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "South Dumdum",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Suri",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Tamluk",
+  "sources": [
+   "district HQ"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Uluberia",
+  "sources": [
+   "100k+"
+  ]
+ },
+ {
+  "state": "WB",
+  "name": "Uttarpara Kotrung",
+  "sources": [
+   "100k+"
+  ]
+ }
+]

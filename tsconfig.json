@@ -20,7 +20,8 @@
       "@vishivish18/india-states-cities/react": [
         "./src/react.ts"
       ]
-    }
+    },
+    "resolveJsonModule": true
   },
   "include": [
     "src",

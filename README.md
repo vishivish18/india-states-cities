@@ -2,7 +2,9 @@
 
 **[Live demo](https://vishivish18.github.io/india-states-cities/)**
 
-All **28 states and 8 union territories of India** with **4,200+ cities**, for building a "pick a state, then a city" form. Typed, zero dependencies, works in Node and the browser, with an optional headless React hook.
+All **28 states and 8 union territories of India** with **4,300+ cities**, for building a "pick a state, then a city" form. Typed, zero dependencies, works in Node and the browser, with an optional headless React hook.
+
+**Coverage:** every state and UT capital, every district headquarters (770+) and every city with 100,000+ people (Census 2011). A test checks all of them, so none can go missing.
 
 ```bash
 npm install @vishivish18/india-states-cities
@@ -82,9 +84,11 @@ if (!city) throw new BadRequestException('Unknown state or city');
 // store state.code and the canonical city name
 ```
 
-### Former city names
+### Former and alternative city names
 
-Old names resolve to the current one in `findCity`, `isValidCity` and `searchCities`: Bangalore, Bombay, Madras, Calcutta, Gurgaon, Allahabad, Trivandrum, Vizag, Mysore, Poona, Baroda, Cochin, Benares/Banaras, Mangalore, Belgaum, Hubli, Gulbarga, Simla, Cawnpore.
+Over 130 old, short and municipal-corporation names resolve to the city's current name in `findCity`, `isValidCity` and `searchCities`. For example: Bangalore → Bengaluru, Bombay → Mumbai, Gurgaon → Gurugram, Aurangabad (Maharashtra) → Chhatrapati Sambhajinagar, Shimoga → Shivamogga, Calicut → Kozhikode, Port Blair → Sri Vijaya Puram, Kalyan-Dombivli → Kalyan.
+
+They are per state, so the same name can mean different cities: `findCity('OD', 'Berhampur')` is Brahmapur, while `findCity('BR', 'Aurangabad')` stays Aurangabad.
 
 ## Codes
 
@@ -96,7 +100,8 @@ City data comes from the [countries-states-cities database](https://github.com/d
 
 - Districts, "area" rows and abandoned towns are dropped; cities, towns, municipalities and urban localities are kept.
 - Duplicates within a state are removed and names are trimmed.
-- A few fixes on top: Kalaburagi added (missing upstream), two Hindi state names corrected.
+- Corrections on top, all in [`scripts/corrections.mjs`](./scripts/corrections.mjs): about 100 missing places added (Dehradun, Imphal, Shivamogga, newer district headquarters and others), about 60 outdated spellings updated to the official name (Kulu → Kullu, Naini Tal → Nainital, Cuddapah → Kadapa), and over 130 alternative names. The old spellings still work.
+- Two Hindi state names corrected.
 
 To refresh the data:
 
@@ -106,9 +111,9 @@ curl -L -o IN.json https://raw.githubusercontent.com/dr5hn/countries-states-citi
 npm run data -- states.csv IN.json && npm test
 ```
 
-The build script checks there are exactly 28 states and 8 UTs, that every state has cities and that every former-name target exists, and fails otherwise.
+The build script checks there are exactly 28 states and 8 UTs, that every state has cities, and that every correction points at a real entry, and fails otherwise. `test/reference-places.json` lists every capital, district headquarters and 100k+ city, and the tests fail if any of them stops resolving.
 
-The list covers cities and towns, not every village. If a city is missing, open an issue or add it to `SUPPLEMENT` in `scripts/build-data.mjs`.
+The list covers cities and towns, not every village. If a city is missing, open an issue or add it to `SUPPLEMENT` in `scripts/corrections.mjs`.
 
 ## Licence
 

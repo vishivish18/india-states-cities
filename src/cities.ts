@@ -8,18 +8,29 @@ const ALL_CITIES: readonly City[] = (Object.keys(CITIES) as StateCode[]).flatMap
   CITIES[stateCode].map((name) => ({ name, stateCode })),
 );
 
-/** Normalized names, computed once (parallel to ALL_CITIES) so search doesn't redo it per keystroke. */
-const SEARCH_KEYS: readonly string[] = ALL_CITIES.map((c) => normalize(c.name));
-
-const normalizedAliases = new Map<string, string>(
-  Object.entries(CITY_ALIASES).map(([alias, target]) => [normalize(alias), normalize(target)]),
-);
-
-/** Current name → its former names, all normalized (e.g. `bengaluru` → [`bangalore`]). */
-const aliasesByTarget = new Map<string, string[]>();
-for (const [alias, target] of normalizedAliases) {
-  aliasesByTarget.set(target, [...(aliasesByTarget.get(target) ?? []), alias]);
+/** Per state: normalized name or alias → canonical city name. */
+const LOOKUP = new Map<StateCode, Map<string, string>>();
+for (const code of Object.keys(CITIES) as StateCode[]) {
+  const index = new Map<string, string>();
+  for (const name of CITIES[code]) index.set(normalize(name), name);
+  for (const [alias, target] of Object.entries(CITY_ALIASES[code] ?? {})) {
+    const key = normalize(alias);
+    if (!index.has(key)) index.set(key, target);
+  }
+  LOOKUP.set(code, index);
 }
+
+/** Search keys per city (parallel to ALL_CITIES): its normalized name plus its normalized aliases. */
+const SEARCH_KEYS: readonly (readonly string[])[] = (() => {
+  const aliasesOf = new Map<string, string[]>();
+  for (const [code, map] of Object.entries(CITY_ALIASES)) {
+    for (const [alias, target] of Object.entries(map ?? {})) {
+      const id = `${code}|${target}`;
+      aliasesOf.set(id, [...(aliasesOf.get(id) ?? []), normalize(alias)]);
+    }
+  }
+  return ALL_CITIES.map((c) => [normalize(c.name), ...(aliasesOf.get(`${c.stateCode}|${c.name}`) ?? [])]);
+})();
 
 /**
  * City names in a state, sorted A–Z. Accepts anything `getState` accepts (`KA`, `Karnataka`, `IN-KA`).
@@ -48,9 +59,8 @@ export function isValidCity(state: string, city: string): boolean {
 export function findCity(state: string, city: string): string | undefined {
   if (typeof city !== 'string') return undefined;
   const key = normalize(city);
-  if (!key) return undefined;
-  const target = normalizedAliases.get(key) ?? key;
-  return getCities(state).find((name) => normalize(name) === target);
+  const found = key ? getState(state) : undefined;
+  return found ? LOOKUP.get(found.code)?.get(key) : undefined;
 }
 
 export interface SearchCitiesOptions {
@@ -61,8 +71,9 @@ export interface SearchCitiesOptions {
 }
 
 /**
- * Searches cities by name for autocomplete. Former names count (`gurg` finds Gurugram via Gurgaon).
- * Ranking: exact → starts with → a word starts with → contains; ties sorted A–Z. Returns `[]` for an empty query or an unknown `state`.
+ * Searches cities by name for autocomplete. Former and alternative names count (`gurg` finds Gurugram via
+ * Gurgaon). Ranking: exact → starts with → a word starts with → contains; ties sorted A–Z.
+ * Returns `[]` for an empty query or an unknown `state`.
  */
 export function searchCities(query: string, options: SearchCitiesOptions = {}): readonly City[] {
   const q = typeof query === 'string' ? normalize(query) : '';
@@ -88,9 +99,8 @@ export function searchCities(query: string, options: SearchCitiesOptions = {}): 
     .map((r) => r.city);
 }
 
-/** 0 exact, 1 prefix, 2 word prefix, 3 contains, -1 no match. Former names count as the current name. */
-function rankName(name: string, q: string): number {
-  const names = [name, ...(aliasesByTarget.get(name) ?? [])];
+/** 0 exact, 1 prefix, 2 word prefix, 3 contains, -1 no match. Alternative names count as the city's name. */
+function rankName(names: readonly string[], q: string): number {
   if (names.some((n) => n === q)) return 0;
   if (names.some((n) => n.startsWith(q))) return 1;
   if (names.some((n) => n.split(' ').some((word) => word.startsWith(q)))) return 2;

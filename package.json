@@ -1,7 +1,7 @@
 {
   "name": "@vishivish18/india-states-cities",
-  "version": "0.1.0",
-  "description": "All 36 Indian states and union territories with their cities, for state → city pickers. Typed, tiny API, zero dependencies, optional React hook.",
+  "version": "0.2.0",
+  "description": "All 36 Indian states and union territories with 4,300+ cities (every district HQ and 100k+ city), for state → city pickers. Typed, tiny API, zero dependencies, optional React hook.",
   "keywords": [
     "india",
     "states",

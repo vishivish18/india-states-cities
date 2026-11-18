@@ -45,7 +45,7 @@ export function App() {
             <div><dt>States</dt><dd>{getStates({ type: 'state' }).length}</dd></div>
             <div><dt>Union territories</dt><dd>{getStates({ type: 'union-territory' }).length}</dd></div>
             <div><dt>Cities</dt><dd>{countCities().toLocaleString('en-IN')}</dd></div>
-            <div><dt>Gzipped</dt><dd>~22 KB</dd></div>
+            <div><dt>Gzipped</dt><dd>~25 KB</dd></div>
           </dl>
           <nav className="links">
             <a href={REPO_URL}>GitHub</a>
