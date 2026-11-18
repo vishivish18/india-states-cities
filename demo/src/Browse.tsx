@@ -1,4 +1,4 @@
-import { countCities, getStates } from 'india-states-cities';
+import { countCities, getStates } from '@vishivish18/india-states-cities';
 
 interface Props {
   selected: string | null;

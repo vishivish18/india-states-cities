@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { getState, searchCities } from 'india-states-cities';
+import { getState, searchCities } from '@vishivish18/india-states-cities';
 
 const EXAMPLES = ['pune', 'bangalore', 'gurg', 'nagar', 'kochi'];
 

@@ -1,17 +1,17 @@
-# india-states-cities
+# @vishivish18/india-states-cities
 
 **[Live demo](https://vishivish18.github.io/india-states-cities/)**
 
 All **28 states and 8 union territories of India** with **4,200+ cities**, for building a "pick a state, then a city" form. Typed, zero dependencies, works in Node and the browser, with an optional headless React hook.
 
 ```bash
-npm install india-states-cities
+npm install @vishivish18/india-states-cities
 ```
 
 ## Quick start
 
 ```ts
-import { getStates, getCities } from 'india-states-cities';
+import { getStates, getCities } from '@vishivish18/india-states-cities';
 
 getStates();
 // [{ code: 'AN', isoCode: 'IN-AN', name: 'Andaman and Nicobar Islands', nameHi: 'अंडमान और निकोबार द्वीपसमूह', type: 'union-territory' }, …]
@@ -25,7 +25,7 @@ getCities('Karnataka'); // same; names work too
 A headless hook: it manages the selection and you render whatever UI you like (native `<select>`, MUI, shadcn, …). Picking a different state clears the city.
 
 ```tsx
-import { useIndiaStateCity } from 'india-states-cities/react';
+import { useIndiaStateCity } from '@vishivish18/india-states-cities/react';
 
 function AddressFields() {
   const { states, cities, stateCode, city, setState, setCity } = useIndiaStateCity();
@@ -74,7 +74,7 @@ Types: `State`, `StateCode` (a union of all 36 codes), `StateType`, `City`.
 ### Validating on the server
 
 ```ts
-import { getState, findCity } from 'india-states-cities';
+import { getState, findCity } from '@vishivish18/india-states-cities';
 
 const state = getState(body.state);
 const city = state && findCity(state.code, body.city);

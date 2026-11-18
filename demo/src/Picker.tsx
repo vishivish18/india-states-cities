@@ -1,8 +1,8 @@
-import type { StateType } from 'india-states-cities';
-import type { IndiaStateCity } from 'india-states-cities/react';
+import type { StateType } from '@vishivish18/india-states-cities';
+import type { IndiaStateCity } from '@vishivish18/india-states-cities/react';
 import { CopyButton } from './CopyButton';
 
-const SNIPPET = `import { useIndiaStateCity } from 'india-states-cities/react';
+const SNIPPET = `import { useIndiaStateCity } from '@vishivish18/india-states-cities/react';
 
 const { states, cities, stateCode, city, setState, setCity } = useIndiaStateCity();
 

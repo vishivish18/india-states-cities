@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import { countCities, getStates, type StateType } from 'india-states-cities';
-import { useIndiaStateCity } from 'india-states-cities/react';
+import { countCities, getStates, type StateType } from '@vishivish18/india-states-cities';
+import { useIndiaStateCity } from '@vishivish18/india-states-cities/react';
 import { Browse } from './Browse';
 import { CopyButton } from './CopyButton';
 import { Picker } from './Picker';
@@ -8,8 +8,8 @@ import { Search } from './Search';
 import { Validate } from './Validate';
 
 const REPO_URL = 'https://github.com/vishivish18/india-states-cities';
-const NPM_URL = 'https://www.npmjs.com/package/india-states-cities';
-const INSTALL = 'npm install india-states-cities';
+const NPM_URL = 'https://www.npmjs.com/package/@vishivish18/india-states-cities';
+const INSTALL = 'npm install @vishivish18/india-states-cities';
 
 export function App() {
   const [filter, setFilter] = useState<StateType | 'all'>('all');
@@ -32,7 +32,7 @@ export function App() {
       <header className="hero">
         <div className="wrap">
           <p className="eyebrow">npm package</p>
-          <h1>india-states-cities</h1>
+          <h1>@vishivish18/india-states-cities</h1>
           <p className="lede">
             Every Indian state and union territory, with its cities, for "pick a state, then a city" forms. Typed,
             zero dependencies, with a headless React hook.

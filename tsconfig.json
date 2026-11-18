@@ -14,10 +14,10 @@
     "skipLibCheck": true,
     "noEmit": true,
     "paths": {
-      "india-states-cities": [
+      "@vishivish18/india-states-cities": [
         "./src/index.ts"
       ],
-      "india-states-cities/react": [
+      "@vishivish18/india-states-cities/react": [
         "./src/react.ts"
       ]
     }

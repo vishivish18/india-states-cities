@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { findCity, getState } from 'india-states-cities';
+import { findCity, getState } from '@vishivish18/india-states-cities';
 
 export function Validate() {
   const [stateInput, setStateInput] = useState('Karnataka');

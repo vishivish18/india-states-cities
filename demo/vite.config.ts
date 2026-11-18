@@ -10,8 +10,8 @@ export default defineConfig({
   resolve: {
     alias: {
       // The demo uses the package source directly, so it always shows the current code.
-      'india-states-cities/react': fileURLToPath(new URL('../src/react.ts', import.meta.url)),
-      'india-states-cities': fileURLToPath(new URL('../src/index.ts', import.meta.url)),
+      '@vishivish18/india-states-cities/react': fileURLToPath(new URL('../src/react.ts', import.meta.url)),
+      '@vishivish18/india-states-cities': fileURLToPath(new URL('../src/index.ts', import.meta.url)),
     },
   },
   build: { outDir: fileURLToPath(new URL('../demo-dist', import.meta.url)), emptyOutDir: true },
